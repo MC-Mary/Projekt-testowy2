@@ -1,1 +1,3 @@
 Test edytora tekstowego Vi
+czwarty raz podejscie
+
